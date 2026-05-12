@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Mayor Announces New Public Safety Initiative",
+    "category": "Government",
+    "author": "Ethan Caldwell",
+    "date": "May 13, 2026",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Downtown Charity Event Draws Hundreds of Citizens",
+    "category": "Community",
+    "author": "Rubyccino Stellar",
+    "date": "May 12, 2026",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "Exclusive Interview with Novelty Business Council",
+    "category": "Interview",
+    "author": "Gabe Hawthorne",
+    "date": "May 11, 2026",
+    "featured": false
+  }
+]
